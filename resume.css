@@ -83,3 +83,15 @@ a#pdf:hover { background: #222; }
   clear: both;
   display: table;
 }
+
+.other_projects {
+	float: left;
+}
+
+.proj_description {
+	float: right;
+}
+
+.capstone_proj {
+	width:80.2%;
+}
