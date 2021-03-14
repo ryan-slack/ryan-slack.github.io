@@ -92,9 +92,3 @@ a#pdf:hover { background: #222; }
 	float: right;
 }
 
-#all {
-    display: inline-block;
-    width: 100%;
-    height: 100px;
-    white-space:nowrap;
-}
