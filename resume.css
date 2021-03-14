@@ -97,7 +97,7 @@ a#pdf:hover { background: #222; }
 }
 
 #all {
-    width: 100%;
+    width: 125%;
     height: 100px;
     white-space:nowrap;
 }
