@@ -94,9 +94,7 @@ a#pdf:hover { background: #222; }
 
 #all {
     display: inline-block;
-    width: 100%;
+    width: 80%;
     height: 100px;
     white-space:nowrap;
-    resize: both;
-    overflow: auto;
 }
