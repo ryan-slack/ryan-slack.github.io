@@ -91,3 +91,10 @@ a#pdf:hover { background: #222; }
 .proj_description {
 	float: right;
 }
+
+#all {
+    position: relative;
+    width: 100%;
+    height: 100px;
+    white-space:nowrap;
+}
